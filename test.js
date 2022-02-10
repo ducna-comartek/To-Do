@@ -43,3 +43,21 @@ for(let i = 0; i< 1000000; i++){
 
 }
 console.timeEnd()
+
+
+const student1 = {
+    name : "duc",
+    diem : {
+        toan : 9,
+        van : 8,
+        anh : 7
+    }
+}
+const student2 = {
+    name : "nam",
+    diem : {
+        toan : 7,
+        van : 7,
+        anh : 6
+    }
+}
